@@ -1,0 +1,16 @@
+
+public class ReverseLL {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Node root = new Node();
+		
+		reverse(root);
+	}
+	
+	public static void reverse(Node root)
+	{
+		
+	}
+
+}
